@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\george\documents\visual studio 2013\projects\money tracker\money tracker\obj\arm\debug\intermediatexaml\money tracker.exe" HashGuid="2c24fbce-0b6a-8ce2-d546-f4265069a221" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\george\documents\visual studio 2013\projects\money tracker\packages\sqlitepcl.3.8.5.1\lib\wpa81\sqlitepcl.dll" HashGuid="0f475d76-e92f-a29a-d654-826e1f8f292a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

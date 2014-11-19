@@ -1,0 +1,32 @@
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Debug\App.xbf
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Debug\MainPage.xbf
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Debug\Money Tracker.xr.xml
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Debug\Money Tracker.exe
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Debug\Money Tracker.pdb
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Debug\resources.pri
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Debug\AppxManifest.xml
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Debug\Money Tracker.build.appxrecipe
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\App.g.i.cs
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\App.g.cs
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\MainPage.g.i.cs
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\MainPage.g.cs
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\XamlTypeInfo.g.cs
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\App.xaml
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\MainPage.xaml
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\App.xbf
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\MainPage.xbf
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\XamlSaveStateFile.xml
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\Money Tracker.exe
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\Money Tracker.pdb
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\priconfig.xml
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\priconfig.xml.intermediate
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\layout.resfiles
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\layout.resfiles.intermediate
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\resources.resfiles
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\resources.resfiles.intermediate
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\pri.resfiles
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\pri.resfiles.intermediate
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\qualifiers.txt
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\qualifiers.txt.intermediate
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\george\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Debug\ProjectArchitectures.txt

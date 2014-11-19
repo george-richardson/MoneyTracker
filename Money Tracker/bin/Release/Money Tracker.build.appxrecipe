@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEORGE-DESKTOP</Machine>
+    <WindowsUser>George</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>82fe6727-edc0-433b-95cc-8fd15753d07b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Release\Money Tracker.exe">
+      <PackagePath>Money Tracker.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\Assets\Splash.scale-100.png">
+      <PackagePath>Assets\Splash.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\Assets\WalletLogo-310x150.png">
+      <PackagePath>Assets\WalletLogo-310x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\Assets\WalletLogo-150.png">
+      <PackagePath>Assets\WalletLogo-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\Assets\WalletLogo-Splash.png">
+      <PackagePath>Assets\WalletLogo-Splash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\Assets\WalletLogo-71.png">
+      <PackagePath>Assets\WalletLogo-71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\Assets\WalletLogo-44.png">
+      <PackagePath>Assets\WalletLogo-44.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\Assets\WalletLogo-512.png">
+      <PackagePath>Assets\WalletLogo-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Release\Money Tracker.xr.xml">
+      <PackagePath>Money Tracker.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

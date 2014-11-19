@@ -1,0 +1,59 @@
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\SQLitePCL.Ext.dll
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\SQLitePCL.Ext.pri
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\App.xbf
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\MainPage.xbf
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\Money Tracker.xr.xml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\Money Tracker.exe
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\Money Tracker.pdb
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\resources.pri
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\AppxManifest.xml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\Money Tracker.build.appxrecipe
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\SQLitePCL.dll
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\Money Tracker.csprojResolveAssemblyReference.cache
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\App.g.i.cs
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\App.g.cs
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\MainPage.g.cs
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\App.xaml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\MainPage.xaml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\App.xbf
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\MainPage.xbf
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\Money Tracker.exe
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\Money Tracker.pdb
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\Money Tracker.csproj.GenerateResource.Cache
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL.pri
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\qualifiers.txt
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\priconfig.xml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\layout.resfiles
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\resources.resfiles
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\pri.resfiles
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\qualifiers.txt
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL.Ext.pri.xml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\AddTransactionPage.xbf
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\AddTransactionPage.g.i.cs
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\AddTransactionPage.g.cs
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\AddTransactionPage.xaml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\AddTransactionPage.xbf
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\ManageLabelsPage.g.i.cs
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\ManageLabelsPage.g.cs
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\bin\ARM\Debug\ManageLabelsPage.xbf
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\ManageLabelsPage.xaml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\ManageLabelsPage.xbf
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\layout.resfiles
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\layout.resfiles.intermediate
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\Resources.resfiles
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\Resources.resfiles.intermediate
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\pri.resfiles
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\pri.resfiles.intermediate
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\priconfig.xml
+C:\Users\George\documents\visual studio 2013\Projects\Money Tracker\Money Tracker\obj\ARM\Debug\SQLitePCL\priconfig.xml.intermediate
